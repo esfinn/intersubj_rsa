@@ -3,6 +3,7 @@
 This repository contains data and code associated with the following preprint:
 
 "Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging"
+
 Emily S. Finn, Enrico Glerean, Arman Y. Khojandi, Dylan Nielson, Peter J. Molfese, Daniel A. Handwerker, Peter A. Bandettini
 <link to appear after posting>
 
