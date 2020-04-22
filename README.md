@@ -1,10 +1,10 @@
 # intersubj_rsa
 
-This repository contains data and code associated with the following preprint:
+This repository contains data and code associated with the following paper:
 
 *Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging*<br>
-Emily S. Finn, Enrico Glerean, Arman Y. Khojandi, Dylan Nielson, Peter J. Molfese, Daniel A. Handwerker, Peter A. Bandettini<br>
-https://psyarxiv.com/yeu89/
+Emily S. Finn, Enrico Glerean, Arman Y. Khojandi, Dylan Nielson, Peter J. Molfese, Daniel A. Handwerker, Peter A. Bandettini<br> *NeuroImage* (2020).
+https://www.sciencedirect.com/science/article/pii/S1053811920303153
 
 The code is contained in two Jupyter Notebooks:
 
